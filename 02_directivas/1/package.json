@@ -1,5 +1,5 @@
 {
-  "name": "pruebavue",
+  "name": "03_bootstrap",
   "version": "0.0.0",
   "private": true,
   "type": "module",
@@ -16,6 +16,6 @@
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
     "sass": "^1.72.0",
-    "vite": "^5.2.2"
+    "vite": "^5.1.6"
   }
 }
